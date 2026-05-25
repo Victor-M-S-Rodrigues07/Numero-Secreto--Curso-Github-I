@@ -10,13 +10,11 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--descri%C3%A7%C3%A3o-do-projeto-)
-- [📂 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
-- [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--objetivos-da-aprendizagem-)
-- [⚙ Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--funcionalidades-)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-estrutura-do-projeto)
-- [✨ Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#autor-do-projeto)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Numero-Secreto--Curso-Github-I#--descri%C3%A7%C3%A3o-do-projeto-)
+- [🔗 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Numero-Secreto--Curso-Github-I#-acesso-ao-projeto)
+- [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Numero-Secreto--Curso-Github-I#--objetivos-da-aprendizagem-)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Numero-Secreto--Curso-Github-I#--tecnologias-utilizadas-)
+- [✨ Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Numero-Secreto--Curso-Github-I#autor-do-projeto)
 
 ## <h2> 📝 Descrição do Projeto </h2>
 
@@ -49,7 +47,6 @@ Você pode acessar o repositório original do projeto clicando [aqui](https://gi
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a> 
 <a href = "https://github.com/Victor-M-S-Rodrigues07/"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23000000&color=%2300000000"></a>
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
-<a href = "https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos"><img alt = "Static Badge" src = "https://img.shields.io/badge/Git%20e%20GitHub%3A%20compartilhando%20e%20colaborando%20em%20projetos-0?style=for-the-badge&label=Curso&color=%2323C7D9"> </a>
-"></a>
+<a href = "https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos"><img alt = "Static Badge" src = "https://img.shields.io/badge/Git%20e%20GitHub%3A%20compartilhando%20e%20colaborando%20em%20projetos-0?style=for-the-badge&label=Curso&color=%2323C7D9"></a>
 
 🇧🇷 - 2025
